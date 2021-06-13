@@ -1,2 +1,2 @@
 # TCP_Options
-Simple code to printin default values of socket option
+Simple code to print the default values of TCP socket options of your host.  
